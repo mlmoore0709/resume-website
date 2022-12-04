@@ -34,6 +34,7 @@ A simple website that showcases my past work experiences and recent programming 
   //Example
   git branch add-links
   ```
+* Switch to a different branch.
 * Update your local work by pulling code from the remote repository.
   ```
   git pull origin <BRANCH_NAME>
