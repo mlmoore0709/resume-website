@@ -46,16 +46,16 @@ A simple website that showcases my past work experiences and recent programming 
   //Add changes in your local repository.
   git add <FILE_NAME>
 
-    //Or add all files with changes.
-    git add .
+  //Or add all files with changes.
+  git add .
 
-    //Commit changes in your local repository.
-    git commit -m <COMMIT_MESSAGE>
-    git commit -m "commit message"
+  //Commit changes in your local repository.
+  git commit -m <COMMIT_MESSAGE>
+  git commit -m "commit message"
 
-    //Push changes to the remote repository.
-    git push origin <BRANCH_NAME>
-    git push origin add-links
+  //Push changes to the remote repository.
+  git push origin <BRANCH_NAME>
+  git push origin add-links
   ```
 * Rebasing
   ```
